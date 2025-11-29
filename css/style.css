@@ -216,10 +216,9 @@ body {
     border-radius: 5px;
     background: none;
     color: white;
-    width: 170px;
     margin-left: 20px;
     font-size: 15px;
-    height: 45px;
+    padding: 12px 32px;
     position: relative;
     overflow: hidden;
     transition: all 0.4s ease;
@@ -253,8 +252,7 @@ body {
 
 
 .header button {
-    width: 100px;
-    padding: 10px 15px;
+    padding: 9px 25px;
     cursor: pointer;
     border: 1px solid #d5d5d5;
     border-radius: 5px;
@@ -1775,7 +1773,7 @@ body {
 
 @media screen and (max-width: 767px) {
 
-    .testimonial-box{
+    .testimonial-box {
         padding: 0;
     }
 
